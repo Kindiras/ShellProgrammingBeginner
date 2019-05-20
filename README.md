@@ -4,3 +4,4 @@ This gives basics ideas on shell programming.
  # course structure:
  - Hour one:
     + Some basics command [some_commands](some_commands.ipynb)
+    + Type of shells[Types of shells](Type_of_shells.ipynb)
