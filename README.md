@@ -5,4 +5,5 @@
  - `Hour one`:
     + [some_commands](Hour-one/some_commands.ipynb)
     + [Types of shells](Hour-one/Type_of_shells.ipynb)
- - Hour Two:   
+ - Hour Two: 
+   + [script_basics.ipynb](Hour-Two/script_basics.ipynb)
