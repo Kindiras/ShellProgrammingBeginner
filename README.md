@@ -8,4 +8,4 @@
  - Hour Two: 
    + [script_basics.ipynb](Hour-Two/script_basics.ipynb)
  - Hour-Three:
-   + [working_with_files](Hour-Three/working_with_files)
+   + [working_with_files](Hour-Three/working_with_files.ipynb)
