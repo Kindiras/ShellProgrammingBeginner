@@ -11,3 +11,5 @@
    + [working with files](Hour-Three/working_with_files.ipynb)
  - Hour-Four:
    + [Working with direcotry](Hour-Four/Working_with_directories.ipynb)
+ - Hour-Five:
+   + [Manipulating Files](Hour-Five/Manipulating_file_attributes.ipynb)
