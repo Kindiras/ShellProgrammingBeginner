@@ -14,4 +14,4 @@
  - Hour-Five:
    + [Manipulating Files](Hour-Five/Manipulating_file_attributes.ipynb)
  - Hour-Six:
-   + [Processes](Hour-Six/Processes.ipynb)
+   + [Processes](Hour-six/Processes.ipynb)
