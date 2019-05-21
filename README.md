@@ -7,3 +7,5 @@
     + [Types of shells](Hour-one/Type_of_shells.ipynb)
  - Hour Two: 
    + [script_basics.ipynb](Hour-Two/script_basics.ipynb)
+ - Hour-Three:
+   + [working_with_files](Hour-Three/working_with_files)
