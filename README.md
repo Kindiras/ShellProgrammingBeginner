@@ -18,5 +18,5 @@
  - Hour-Seven:
    + [Variable](Hour-seven/variable.ipynb)
  - Hour-Eight:
-  +`*` wildcards and `?` widlcards are used as substitution in bash command. See the example below. `?` represents single character, if we have to use two characters substitution use `??` and so on. 
+   +  `*` wildcards and `?` widlcards are used as substitution in bash command. See the example below. `?` represents single character, if we have to use two characters substitution use `??` and so on. 
    + [Substitution](Hour-eight/substitution.ipynb)
