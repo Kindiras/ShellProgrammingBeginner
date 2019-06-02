@@ -23,3 +23,8 @@
  - Hour-Nine:
    + Backslashes`\`, Single quotes `'` and double quote `"` are used to quote the characters or sentences.
     + [Quoting](Hour-nine/quoting.ipynb)
+ - Hour-Ten:
+   + `if`, `elase`,`elif` are used for flow control. The basic if statement syntax follows:
+      `if list1;then list2; elif list3; then list4; else list5; fi;`
+   + [Flow Control](Hour-ten/flow_control.ipynb)   
+      
